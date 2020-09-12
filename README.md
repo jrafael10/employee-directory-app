@@ -11,6 +11,12 @@ are built in Vanilla ES6 JavaScript. Using the JavaScript's built-in Fetch API, 
 <li>Each modal has a previous and next buttons and a close button.</li>
 <li>There's a search feature at the top-right corner of the page that allows user to search names of the people.  
 </ul>
+
+<Strong>Changes in style:</strong>
+<ul>
+ <li>Body's background color is set to #87cefa from background: rgba(235, 235, 235, 0.9) </li>
+ <li>Each employee's card color is set to OldLace.</li>
+ </ul>
  
 
 
